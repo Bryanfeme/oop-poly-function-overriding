@@ -29,7 +29,12 @@ public:
      * in a derived class. It is declared using the virtual keyword. It is used to tell
      * the compiler to perform dynamic linkage or late binding on the function.
      */
-    virtual void display();
+/**
+  * Método para override anular
+  * Una función virtual de C++ es una función miembro en la clase base que redefine
+  * en una clase derivada. Se declara usando la palabra clave virtual. se usa para decir
+  * el compilador para realizar enlaces dinámicos o enlace tardío en la función.
+virtual void display();
 };
 
 
