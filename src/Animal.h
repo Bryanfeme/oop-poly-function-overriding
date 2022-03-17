@@ -34,7 +34,7 @@ public:
   * Una función virtual de C++ es una función miembro en la clase base que redefine
   * en una clase derivada. Se declara usando la palabra clave virtual. se usa para decir
   * el compilador para realizar enlaces dinámicos o enlace tardío en la función.
-virtual void display();
+virtual void display();**/
 };
 
 
